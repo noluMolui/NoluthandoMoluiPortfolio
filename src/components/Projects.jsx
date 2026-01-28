@@ -17,7 +17,7 @@ export default function Projects() {
 
     <div class="project-card">
       <img src="assets/noluforge.png" alt="NoluForge Business Website" />
-      <h3>NoluForge — Business Website</h3>
+      <h3>Business Website</h3>
       <p>
         aAn official business website showcasing full digital services, brand clarity,
         and a strong professional online presence.
@@ -35,7 +35,7 @@ export default function Projects() {
 
     <div class="project-card">
       <img src="assets/Edunity.png" alt="Edunity Education Platform" />
-      <h3>Edunity — Education Platform</h3>
+      <h3>Education Platform</h3>
       <p>
         An education-focused web platform built to present structured learning content
         with clarity, responsiveness, and a modern user experience.

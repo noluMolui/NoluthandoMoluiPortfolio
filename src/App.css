@@ -33,6 +33,7 @@ body { font-family: Inter, system-ui, sans-serif; background: #f7f1eb; color: #2
 .project-card img { width: 100%; height: 180px; object-fit: cover; }
 .project-body { padding: 1.5rem; }
 .project-body span { color: #8b7d73; font-size: 0.85rem; }
+.project-card h3{font-size: 25px;}
 
 
 .experience { display: grid; gap: 2rem; }
