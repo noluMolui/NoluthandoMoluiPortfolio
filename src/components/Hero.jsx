@@ -26,7 +26,7 @@ Curious about backend systems and AI-powered interfaces.
 </div>
 </div>
 <div className="hero-image">
-<img src="assets/Noluthando Molui.jpeg" alt="Noluthando Molui" />
+<img src="assets/Noluthando-Molui.jpeg" alt="Noluthando Molui" />
 </div>
 </div>
 </header>
