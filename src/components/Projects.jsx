@@ -16,7 +16,7 @@ export default function Projects() {
   <div class="projects-grid">
 
     <div class="project-card">
-      <img src="src/assets/noluforge.png" alt="NoluForge Business Website" />
+      <img src="assets/noluforge.png" alt="NoluForge Business Website" />
       <h3>NoluForge — Business Website</h3>
       <p>
         aAn official business website showcasing full digital services, brand clarity,
@@ -34,7 +34,7 @@ export default function Projects() {
     </div>
 
     <div class="project-card">
-      <img src="src//assets/Edunity.png" alt="Edunity Education Platform" />
+      <img src="assets/Edunity.png" alt="Edunity Education Platform" />
       <h3>Edunity — Education Platform</h3>
       <p>
         An education-focused web platform built to present structured learning content
@@ -50,7 +50,7 @@ export default function Projects() {
     </div>
 
     <div class="project-card">
-      <img src="src/assets/titelo.png" alt="Titelo Electrical Website" />
+      <img src="assets/titelo.png" alt="Titelo Electrical Website" />
       <h3>Titelo Electrical</h3>
       <p>
         A clean, professional website built for an electrical company, focused on
@@ -68,7 +68,7 @@ export default function Projects() {
     </div>
 
     <div class="project-card">
-      <img src="src/assets/weather.png" alt="Weather App" />
+      <img src="assets/weather.png" alt="Weather App" />
       <h3>Weather App</h3>
       <p>
         A weather application that consumes a public API to display real-time weather
@@ -86,7 +86,7 @@ export default function Projects() {
     </div>
 
     <div class="project-card">
-      <img src="src/assets/cafe.png" alt="Frontend Practice Café Website" />
+      <img src="assets/cafe.png" alt="Frontend Practice Café Website" />
       <h3>Frontend Practice Project</h3>
       <p>
         A responsive café website built to demonstrate layout structure, visual
