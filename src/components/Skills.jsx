@@ -21,57 +21,51 @@ export default function Skills() {
           icon={FaReact}
           title="React"
           hint="Tap to flip"
-          description="I build component-driven UIs using React, managing state with useState, side effects with useEffect, and clean reusable patterns."
-        />
+          description="Building data-driven user interfaces using React’s component-based architecture."/>
 
         <SkillCard
           icon={SiJavascript}
           title="JavaScript"
           hint="Tap to flip"
-          description="Strong fundamentals in JavaScript — working with arrays, objects, async logic, and data from APIs."
-        />
+          description="Mastering JavaScript fundamentals, including async logic, data manipulation, and seamless integration."/>
 
         <SkillCard
           icon={MdApi}
           title="APIs"
           hint="Tap to flip"
-          description="I consume REST APIs, handle loading and error states, and render dynamic, data-driven interfaces."
-        />
+          description="Building dynamic interfaces by handling real-time data fetching and state management" />
 
         <SkillCard
           icon={FaPenNib}
           title="UI & Visual Design"
           hint="Tap to flip"
-          description="I design thoughtful, expressive interfaces with strong hierarchy, spacing, and storytelling."
+          description="I design thoughtful, expressive interfaces with strong hierarchy, spacing,& storytelling."
         />
 
         <SkillCard
           icon={FaFigma}
           title="Figma"
           hint="Tap to flip"
-          description="I design layouts, components, and flows in Figma before development for clarity and intention."
+          description="I design layouts, components, and flows in Figma  for clarity and intention."
         />
 
         <SkillCard
           icon={SiCanva}
           title="Canva"
           hint="Tap to flip"
-          description="I create logos, posters, and branded visuals using Canva with a strong creative eye."
-        />
+          description="Crafting professional logos and branded visuals for a consistent digital presence"/>
+
+       <SkillCard
+  icon={FaBrain}
+  title="AI-Enabled Development"
+  hint="Tap to flip"
+  description="Use AI to speed up development cycles and build intelligent, user-focused interfaces"/>
 
         <SkillCard
-          icon={FaBrain}
-          title="AI Curiosity"
-          hint="Tap to flip"
-          description="I’m exploring how AI can be integrated into products to enhance interaction and user experience."
-        />
-
-        <SkillCard
-          icon={FaServer}
-          title="Backend (Learning)"
-          hint="Tap to flip"
-          description="Currently learning backend concepts to better understand full-stack systems and data flow."
-        />
+  icon={FaServer}
+  title="Server-Side Development"
+  hint="Tap to flip"
+  description="Building scalable server-side logic, managing data with Node.js & MongoDB."/>
       </div>
     </section>
   );

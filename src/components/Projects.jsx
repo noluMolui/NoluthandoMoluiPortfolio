@@ -8,12 +8,33 @@ export default function Projects() {
   return (
     <section className="section" id="projects">
       <h3>Selected Work</h3>
+      
       <p className="section-intro">
         A selection of projects that reflect my approach to design, development,
         and building a strong online presence.
       </p>
       <section class="projects">
   <div class="projects-grid">
+
+    <div class="project-card">
+      <img src="assets/hustleflow.png" alt="NoluForge Business Website" />
+      <h3>HustleFlow-Job application tracker</h3>
+      <p>
+       A full-stack application designed to centralize and manage the 
+        recruitment lifecycle. Features include secure user authentication, 
+        real-time application status updates, and a responsive data-grid 
+        for tracking professional opportunities.
+      </p>
+      <p class="stack">React • Node.js • MongoDB • Express</p>
+      <a
+        href="https://job-application-tracker-1-3jsp.onrender.com/"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="project-link"
+      >
+        Website link →
+      </a>
+    </div>
 
     <div class="project-card">
       <img src="assets/noluforge.png" alt="NoluForge Business Website" />
@@ -63,7 +84,7 @@ export default function Projects() {
         rel="noopener noreferrer"
         class="project-link"
       >
-        Website link →
+        Website link →"
       </a>
     </div>
 
